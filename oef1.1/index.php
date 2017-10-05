@@ -11,7 +11,7 @@
     // Hier komt PHP-code tussen de PHP-begintag en de PHP-eindtag.
     $naam = 'Brian Verschoore';
 
-    echo('welkom' .$naam);
+    echo('welkom ' .$naam);
     
 ?>  
 </body>
